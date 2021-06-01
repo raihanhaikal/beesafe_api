@@ -99,7 +99,6 @@ traitlets==5.0.5
 typing-extensions==3.7.4.3
 urllib3==1.26.5
 uvicorn==0.13.4
-uvloop==0.15.2
 watchgod==0.7
 wcwidth==0.2.5
 webencodings==0.5.1
