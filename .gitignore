@@ -1,1 +1,4 @@
 models
+.vscode
+.idea
+venv
